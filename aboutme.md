@@ -8,4 +8,4 @@ Old dog, new tricks, and still loving every byte of it.
 
 My experience, summarized in one line:  
 
-**“Software Engineering: A different way of doing the same thing every twenty years.”**
+**“Software Engineering - A different way of doing the same thing every twenty years.”**
