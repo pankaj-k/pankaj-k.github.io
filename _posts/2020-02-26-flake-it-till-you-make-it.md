@@ -3,7 +3,7 @@ layout: post
 title: Logstash on Dockers
 subtitle: Create a Logstash cluster running on AWS Fargate
 cover-img: /assets/img/watercolor_night_logstash_dockers.png
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/aws_fargate.png
 share-img: /assets/img/path.jpg
 tags: [Logstash, AWS, ECR, ECS, Docker, Github]
 author: Pankaj K
