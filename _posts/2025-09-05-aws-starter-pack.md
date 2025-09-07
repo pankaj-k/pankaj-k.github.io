@@ -11,7 +11,7 @@ author: Pankaj K
 
 # AWS starter pack
 
-This is about as classic as it gets for the AWS beginners. A simple setup with VPC, Subnets, Routing tables, EC2 instances, Load balancer and Autoscaling. More details in the README in source folder. Feel free to the [GitHub Repo](https://github.com/pankaj-k/basic_vpc_subnet_ec2_loadbalancer) as starting point.
+This is about as classic as it gets for the AWS beginners. A simple setup with VPC, Subnets, Routing tables, EC2 instances, Load balancer and Autoscaling. More details in the README in source folder. Feel free to fork the [GitHub Repo](https://github.com/pankaj-k/basic_vpc_subnet_ec2_loadbalancer) and use it as starting point.
 
 
 ## Terraform
