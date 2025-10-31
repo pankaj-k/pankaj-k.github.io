@@ -2,15 +2,14 @@
 layout: post
 title: AWS Infrastructure Provisioned with Terraform + GitHub CI/CD
 subtitle: AWS infrastructure using Terraform with GitHub for CI/CD
-cover-img: /assets/img/African_grasslands.jpeg
-thumbnail-img: /assets/img/start_here.jpg
-share-img: /assets/img/African_grasslands.jpeg
+cover-img: /assets/img/watercolor_night_logstash_dockers.png
+thumbnail-img: /assets/img/RandyMarshSouthPark.png
+share-img: /assets/img/watercolor_night_logstash_dockers.png
 tags: [AWS, Github]
 author: Pankaj K
 ---
 
 ## Overview
-
 This project demonstrates how to deploy **Logstash** on a **highly-available, autoscaled EC2 cluster** behind an **Application Load Balancer**, using **Terraform** for infrastructure provisioning and **GitHub Actions** for CI/CD.
 
 The solution includes:
