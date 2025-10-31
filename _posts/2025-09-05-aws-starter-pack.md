@@ -9,8 +9,7 @@ tags: [AWS, Github]
 author: Pankaj K
 ---
 
-{: .box-success}
-This project showcases the deployment of **Logstash** on a **highly available, autoscaling EC2 cluster** behind an **Application Load Balancer**, provisioned end-to-end using **Terraform** and automated with **GitHub Actions** for CI/CD.
+This project showcases the deployment of **Logstash** on a **highly available, autoscaling EC2 cluster** behind an **Application Load Balancer**, provisioned end-to-end using **Terraform** and automated with **GitHub Actions** for CI/CD.<!--more-->
 
 While Logstash is used here as the workload example, this infrastructure pattern is **generic and reusable** — you can replace Logstash with any containerized or systemd-based application that needs to scale reliably on AWS.
 
