@@ -3,7 +3,7 @@ layout: post
 title: AWS based Logstash cluster provisioned with Terraform + GitHub CI/CD
 subtitle: Create AWS based Logstash cluster using Terraform with GitHub for CI/CD
 cover-img: /assets/img/watercolor_night_logstash_dockers.png
-thumbnail-img: /assets/img/RandyMarshSouthPark.png
+thumbnail-img: /assets/img/CatOnAWS.png
 share-img: /assets/img/watercolor_night_logstash_dockers.png
 tags: [AWS, Github]
 author: Pankaj K
