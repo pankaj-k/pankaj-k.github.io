@@ -10,6 +10,7 @@ author: Pankaj K
 ---
 
 ## Overview
+
 This project demonstrates how to deploy **Logstash** on a **highly-available, autoscaled EC2 cluster** behind an **Application Load Balancer**, using **Terraform** for infrastructure provisioning and **GitHub Actions** for CI/CD.
 
 The solution includes:
