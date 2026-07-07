@@ -10,7 +10,7 @@ author: Pankaj K
 ---
 
 
-We will use Ignition modules to stream machine data to Kafka. Configurations are already done and docker compose is used to create the Ignition instance. It also shows how version control can be used with Ignition infrastructure. The README.md and Playbook.md are the best documentation for this code repo<!--more-->
+We will use Ignition modules to stream machine data to Kafka. Configurations are already done and docker compose is used to create the Ignition instance. It also shows how version control can be used with Ignition infrastructure. The README.md and Playbook.md  (part of the repo) are the best documentation for this code repo<!--more-->
 
 **[GitHub repo: pankaj-k/ignition\_kafka](https://github.com/pankaj-k/ignition_kafka)**
 
