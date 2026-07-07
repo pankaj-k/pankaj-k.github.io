@@ -2,7 +2,7 @@
 layout: post
 title: Factory Data to Kafka - OPC UA, Ignition, and Confluent Cloud
 subtitle: A config-only pipeline with git version control baked into the SCADA layer
-cover-img: /assets/img/ignitionkafkathumb.png
+cover-img: /assets/img/watercolor_night_logstash_dockers.png
 thumbnail-img: /assets/img/ignitionkafkathumb.png
 share-img: /assets/img/ignitionkafkathumb.png
 tags: [IIoT, Ignition, Kafka, OPC-UA, Confluent, Docker]
