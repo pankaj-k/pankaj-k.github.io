@@ -87,9 +87,7 @@ Five streams are pre-configured in the repo:
 
 Each stream has a transform script that enriches events with area, machine ID, and tag name before they reach Kafka. Subscriptions use wildcards (`[default]Factory/Assembly/**`) so new simulator tags are automatically included without touching the stream config.
 
-Create the five topics in Confluent Cloud before starting Ignition — the repo includes a [Terraform config](https://github.com/pankaj-k/ignition_kafka/tree/main/terraform) if you prefer that over the UI. Either way takes about two minutes.
-And I have not yet tested the Terraform module.
-
+Create the five topics in Confluent Cloud before starting Ignition. Refer to README file in the repo for details.
 
 ---
 
@@ -111,6 +109,7 @@ docker compose up -d
 ```
 
 Ignition is at `http://localhost:8088` (admin / Ignition@123). Create the Kafka connection as described above. The OPC UA connection to the simulator is already wired up.
+**Security note:** Change the password for anything beyond local testing.
 
 **Linux note:** Ignition runs as uid 999 inside the container. On Linux hosts, the gateway-data directory needs to match:
 
